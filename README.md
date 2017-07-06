@@ -1,0 +1,1 @@
+This is a collection of javascript solutions to project Euler problems.
